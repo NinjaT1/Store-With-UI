@@ -1,0 +1,105 @@
+[
+    {
+        "ID": 158,
+        "NAME": "Bread",
+        "STOCK": 10,
+        "PRICE": 220.0,
+        "RETAIL_PRICE": 200.0,
+        "TAX": 0.0
+    },
+    {
+        "ID": 103,
+        "NAME": "4 AA Batteries",
+        "STOCK": 50,
+        "PRICE": 50.0,
+        "TAX": 17.0
+    },
+    {
+        "ID": 683,
+        "NAME": "Eggs (per dozen)",
+        "STOCK": 10,
+        "PRICE": 200.0,
+        "RETAIL_PRICE": 200,
+        "TAX": 0.0
+    },
+    {
+        "ID": 351,
+        "NAME": "Oreo Biscuit",
+        "STOCK": 30,
+        "PRICE": 20.0,
+        "RETAIL_PRICE": 16.6,
+        "TAX": 17.0
+    },
+    {
+        "ID": 556,
+        "NAME": "Strawberry Jam",
+        "STOCK": 5,
+        "PRICE": 300.0,
+        "RETAIL_PRICE": 249,
+        "TAX": 17.0
+    },
+    {
+        "ID": 243,
+        "NAME": "Lays Chips (40g)",
+        "STOCK": 20,
+        "PRICE": 40.0,
+        "RETAIL_PRICE": 40.0,
+        "TAX": 0.0
+    },
+    {
+        "ID": 655,
+        "NAME": "Dettol Antiseptic Liquid (50ml)",
+        "STOCK": 100,
+        "PRICE": 235.0,
+        "RETAIL_PRICE": 200.85,
+        "TAX": 17.0
+    },
+    {
+        "ID": 913,
+        "NAME": "Pepsi (1.5L)",
+        "STOCK": 200,
+        "PRICE": 200.0,
+        "RETAIL_PRICE": 170.94,
+        "TAX": 17.0
+    },
+    {
+        "ID": 837,
+        "NAME": "Popcorn (Pack of 3)",
+        "STOCK": 60,
+        "PRICE": 480.0,
+        "RETAIL_PRICE": 410.26,
+        "TAX": 17.0
+    },
+    {
+        "ID": 666,
+        "NAME": "Ink (Dollar)",
+        "STOCK": 200,
+        "PRICE": 50.0,
+        "RETAIL_PRICE": 42.74,
+        "TAX": 17.0
+    },
+    {
+        "ID": 666,
+        "NAME": "Register (250pgs)",
+        "STOCK": 100,
+        "PRICE": 200.0,
+        "RETAIL_PRICE": 170.94,
+        "TAX": 17.0
+    },
+    {
+        "ID": 674,
+        "NAME": "Dollar Ink Pen",
+        "STOCK": 2,
+        "PRICE": 20.0,
+        "RETAIL_PRICE": 17.09,
+        "TAX": 17.0
+    },
+    {
+        "ID": 994,
+        "NAME": "Markers",
+        "STOCK": 10,
+        "PRICE": 70.0,
+        "RETAIL_PRICE": 59.83,
+        "TAX": 17.0
+    }
+]
