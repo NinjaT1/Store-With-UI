@@ -22,3 +22,17 @@ The Shop Management System is a software solution designed to streamline operati
 2. Run the application:
    ```bash
    python main.py
+
+## Usage
+1. Launch the application.
+2. Navigate through the user interface to access different features.
+3. Add products to the cart, process sales, and generate receipts.
+4. Explore reports to analyze sales and inventory data.
+
+## Contributing
+Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
+1. Fork the repository.
+2. Create your feature branch (`git checkout -b feature/YourFeatureName`).
+3. Commit your changes (`git commit -am 'Add some feature'`).
+4. Push to the branch (`git push origin feature/YourFeatureName`).
+5. Create a new Pull Request.
